@@ -21,9 +21,9 @@ Pretty simple to run, as per the following -
 ```
 $ ./portsinactive.py
 
-Enter your username: iraic
+Enter your username: ivan
 Password:
-Enter IP address: 10.23.96.15
+Enter IP address: 192.168.1.10
 Enter days of inactive port: 90
 ```
 
